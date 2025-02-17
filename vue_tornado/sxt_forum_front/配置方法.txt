@@ -1,0 +1,9 @@
+1. 下载node.js(官网) 或者在资料里获取
+2. 安装：下一步
+3. 打开vscode加载 前端项目
+4. 命令行输入：
+    4.1 npm install  # 速度比较慢
+    4.2 npm install --global yarn	# 速度快
+        yarn
+
+5. 启动项目 yarn serve
